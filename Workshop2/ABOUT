@@ -1,0 +1,8 @@
+PROJECT DESCRIPTION: 
+
+[This Python script is customized for GAP products] 
+First, the web scraper asks the user for the number of clothing pieces that he/she is considering purchasing
+For each url link, the script will scrape information and calculate the water footprint based on materials/clothing type
+GOAL: display which choice is more environmentally friendly (the lower the score, the more eco-friendly)
+
+(See comments in code for more details)
